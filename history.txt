@@ -1,0 +1,16 @@
+  635  git branch
+  636  git pull 
+  637  git pull origin feature
+  638   git push -u origin feature
+  639  git pull -all 
+  640  git pull --all 
+  641  git pull --all origin/feature
+  642  git pull origin/feature
+  643  git brach
+  644  gir branch
+  645  git branch
+  646  git commit --amend
+  647  git push --force origin feature
+  648  git checkout main
+  649  git checkout main
+  650  git merge feature
