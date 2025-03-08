@@ -1,16 +1,589 @@
-  635  git branch
-  636  git pull 
-  637  git pull origin feature
-  638   git push -u origin feature
-  639  git pull -all 
-  640  git pull --all 
-  641  git pull --all origin/feature
-  642  git pull origin/feature
-  643  git brach
-  644  gir branch
-  645  git branch
-  646  git commit --amend
-  647  git push --force origin feature
-  648  git checkout main
-  649  git checkout main
-  650  git merge feature
+git
+git config
+itglobal
+user.name
+'Olena Gertt'
+git config --global user.name
+git config --global user.name 'Olena Gert'
+git config --global user.name
+git config --global user.email'sarhsian@gmail.com'
+gi
+git config --global user.email
+git config --global user.email 'sarhsian@gmail.com'
+git config --global user.email
+git config --list
+git cpnfig --list
+git config --list
+ssh-keygen
+ssh-keygen
+cat .ssh/id_ed25519.pub
+exit
+cd
+ssh ec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+clear
+ec2-user@linux.itcareerhub.de
+env
+scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/jelena/file.txt .
+ls
+scp ec2-user@linux.itcareerhub.de:/home/AndreevV/tetris.sh .
+scp ec2-user@linux.itcareerhub.de:/opt/chumak/tetris.sh .
+./tetris.sh
+./tetris.sh
+pwd
+open /
+top
+ec2-user@linux.itcareerhub.de
+env
+env
+ec2-user@linux.itcareerhub.de
+env
+ssh ec2-user@linux.itcareerhub.de
+export OLENA_VARIABLE=131224-wdm
+echo
+echo $OLENA_VARIABLE
+ls /opt/131224-wdm/Olena
+ду�
+ls
+export OLENA_VARIABLE=131224-wdm
+echo $OLENA_VARIABLE
+sudo mkdir -p /opt/131224-wdm/Olena
+cd
+pwd
+mkdir -p ~/131224-wdm/Olena
+cd ~/131224-wdm/Olena
+touch .process_management
+ls -la
+date >> .process_management
+echo "Welcome to Amazon server" >> .process_management
+free -h | grep "Mem:" | awk '{print $2}' >> .process_management
+ps -U root | ws -1 >> .process_management
+ps -U root | wc -l >> .process_management
+env
+export name=ivan
+export NAME01=ivan
+unset name NAME01
+$PS1
+top
+ssh ec2-user@linux.itcareerhub.de
+sshec2-user@linux.itcareerhub.de
+sshec2-user@linux.itcareerhub.de
+sshec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+ec2-user@linux.itcareerhub.de
+shh ec2-user@linux.itcareerhub.de
+\
+ssh ec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+cd
+cat .ssh/id_ed25519.pub
+-/Desktop/test-test
+-/Desktop/test-test
+echo "Hello" >>README.md
+git branch
+ls -la
+cd .git/
+ls -la
+cd ~/Desktop
+cd my_project
+cd test-test
+ls
+open .test-test
+ssh ec2-user@linux.itcareerhub.de
+cd
+cat .ssh/id_ed25519.pub 
+cd ~/Desktop
+cd test-test
+cd ~/Desktop
+cd HomeworksforLinux
+echo "# HomeworksforLinux" >> README.md
+git init
+git status
+git add README.md "Bildschirmfoto 2025-02-05 um 14.12.57.png" "Bildschirmfoto 2025-02-15 um 15.46.19.png"
+git status
+git commit -m "Added screenshots and updated README.md"
+git branch -M main
+git remote add origin git@github.com:OlenaGert/HomeworksforLinux.git
+git push -u origin main
+cd ~/Desktop
+cd HomeworksforLinux
+mkdir HomeworksforLinux1
+cd
+echo $OLDPWD
+cd /Users/olena/Desktop/HomeworksforLinux
+ls
+cd HomeworksforLinux1
+ls
+touch new.txt
+git status
+cd ..
+git status 
+git add HomeworksforLinux1
+git status
+git commit -m "added new homework"
+git push -u origin main
+cd ~/Desktop
+cd test-test
+pwd
+echo "Hello" >> README.md
+git init
+git branch
+ls -la
+cd .git/
+ls -la
+cd ..
+git status
+git add .
+git status
+git commit -m "add file README.md"
+git branch -M main
+git remote add origin git@github.com:OlenaGert/test-test.git
+git remote -v
+git push -u origin main
+ls -la
+rm -rf .git
+ls -la
+touch text.txt
+mkdir test-test
+git status
+git init
+git status
+git add README.md text.txt
+git commit -m "add two files"
+git branch -M main
+git remote add origin git@github.com:OlenaGert/test-test.git
+git remote -v
+git push
+git push --set-upstream origin main
+git status
+nano README.md
+git status
+git add README.md
+git status
+git commit -m "added a new line"
+git push
+date >> README.md
+ls
+rm text.txt
+git status
+git add .
+git commit -m "I modified 1 file and deleted 1 file"
+git push
+git push --force origin main
+git log
+git branch
+cd ~/Desktop
+cd LinuxHomeworks
+pwd
+echo "# LinuxHomeworks" >> README.md
+git init
+git status
+git commit -m "Added LinuxHomeworks folder"
+git branch -m main
+git remote add origin git@github.com:OlenaGert/LinuxHomeworks.git
+git push -u origin main
+scp ec2-user@ip-10-0-42-153:/tmp/file.txt ~/Desktop/
+scp ec2-user@10.0.42.153:/tmp/file.txt ~/Desktop/\
+
+scp ec2-user@10.0.42.153:/tmp/file.txt ~/Desktop/
+scp ec2-user@10.0.42.153:/tmp/file.txt ~/Desktop/
+зу�тп
+ping
+ping 10.0.42.153
+ll
+ls
+scp ec2-user@linux.itcareerhub.de:/tmp/file.txt
+scp ec2-user@linux.itcareerhub.de:/tmp/file.txt ~/Downloads
+ssh ec2-user@linux.itcareerhub.de
+cd /Desktop/git_intro
+pwd
+cd git_intro
+cd ~/Desktop/git_intro
+pwd
+git init
+echo "# git_intro" >> README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/OlenaGert/git_intro.git
+git remote remove origin
+git remote add origin git@github.com:OlenaGert/git_intro.git
+git push -u origin main\
+
+git add Tux.svg.png
+git commit -m "Added photo"
+git push -u origin main
+history > /tmp/history.txt
+mv /tmp/history.txt ~/Desktop/
+ssh ec2-user@linux.itcareerhub.de
+cd ~/Desktop/git-intro-test
+echo "# git-intro-test" >> README.md
+pwd
+git init
+ls -la
+git status
+git add .
+git status
+git commit -m "added smth new"
+git branch 
+\
+git remote add origin git@github.com:OlenaGert/git-intro-test.git
+git remote -v
+git push -u origin main
+touch file.txt 
+git status
+git add file.txt
+git commit -m "added file.txt"
+git push
+git clone git@github.com:OlenaGert/bashscripts.git
+cd bashscripts
+ls -la
+touch olena.txt
+git add olena.txt
+git status
+git commit -m 
+git commit -m "added file olena.txt"
+git push origin main 
+git branch 
+git push origin master
+cd ~/Desktop/25_02
+git init
+touch text.txt text2.txt text3.txt 
+git add .
+git status
+git commit -m
+git commit -m "added 3 files"
+git branch 
+git remote add origin git@github.com:OlenaGert/25_02.git
+git push -u origin main 
+git checkout -b test
+git branch 
+git log
+touch text4.txt text5.txt
+ls -la
+rm text.txt
+git status
+git add .
+git commit -m "added 2 files deleted  1 file"
+git push -u origin test
+git branch -d test
+git branch -D test
+git branch 
+git checkout main
+git branch
+git branch -D test
+git branch
+ls -la
+git status
+git pull
+git status
+git pull origin main
+git status
+ls -la
+nano .gitignore 
+git status
+git add .
+git commit -m "added gitignore"
+git push origin main 
+touch file1.jpg
+git status
+curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+ls -la
+git status
+git add .
+git status
+git commit -m "new gitignore and file1.jpg"
+git push 
+ssh ec2-user@linux.itcareerhub.de
+ssh ec2-user@linux.itcareerhub.de
+cd ~/Documents/myfirstbashscript
+зу�в
+pwd
+cd ~/Desktop/myfirstbashscript
+pwd
+touch myfirstbashscript.sh
+nano myfirstbashscript.sh
+~/Desktop/myfirstbashscript
+ssh ec2-user@linux.itcareerhub.de
+cd ~/Desktop/myfirstbashscript
+pwd
+touch myfirstbashscript.sh
+chmod +x myfirstbashscript.sh
+nano myfirstbashscript.sh
+./myfirstbashscript.sh
+./myfirstbashscript.sh >> result.txt
+nano result.txt
+ssh ec2-user@linux.itcareerhub.de
+cd ~/Desktop/Neue Ordner
+cd ~/Desktop/Neue-Ordner
+cd ~/Desktop/Neuer-Ordner
+git init
+touch lena.txt
+git add lena.txt
+git status
+echo  �First commit � > file.tx
+echo  �First commit � > file.txt
+ls
+rm file.tx
+ls
+git status
+git add file.txt
+git commit -m "first commit"
+git checkout -b feature-branch
+git branch
+echo " change in feauture-branch" >> file.txt
+git status
+git add .
+git commit -m "new hange in feature-branch"
+git log
+git checkout main 
+echo " change in main" >> file.txt
+git status
+git add file.txt
+git commit -m "change main "
+git merge feature-branch
+nano file.txt
+git status
+git commit -am "fixed conflikt merge from feature-branch "
+git status
+git log 
+git log --oneline
+git log --oneline --graph --all
+git branch
+git branch -d feature-brah
+git branch -d feature-branch
+git branch 
+echo "new text" >> file.txt
+git add file.txt
+git status
+git commit -m "changeg" 
+git log --oneline
+git commit --amend -m "changed"
+git log --oneline
+echo "Word" >> new-file.txt
+git add 
+git add new-file.txt
+git commit --amend --no-edit
+git log --oneline
+git branch 
+git checkout -b feauture-branch 
+echo "new data" >> file.txt
+ls -l
+git rebase main
+git status
+git add file.txt 
+git commit -m "something changed"
+git rebase main
+git checkout main
+echo "second change" >> file.txt 
+git commit -am "third commit"
+git checkout feature-branch
+git branch 
+git checkout feauture-branch
+echo "changed agan" >> file.txt
+git commit -am "hghjghj"
+git rebase main
+git rebase --continue
+echo file.txt
+nano file.txt
+git rebase --continue
+git status
+git commit -am "gfjhghk"
+git rebase --continue
+git status
+git add file.txt
+git status
+git commit -m "hfghgfjh"
+git rebase --continue
+git log 
+git log --oneline
+git log --oneline --graph --all
+history
+git commit --amend -m  �new change �
+git commit --amend -m "new change"
+clear
+git log --oneline
+touch new-file2.txt
+git add new-file2.txt
+git status
+git reset HEAD
+git status
+git commit -am "commit 1"
+git add .
+git commit -m "commit 2"
+git log --oneline
+git reset --soft HEAD~1
+git log --oneline 
+git status
+git commit -m "commit 3"
+git reset --mixed HEAD~1
+git status
+history
+git status
+git add .
+git status
+git commit -m "fixet change"
+git reset --hard HEAD~1
+git status
+git revert HEAD
+export EDITOR=nano
+git revert HEAD
+git log --oneline 
+git revert -n HEAD~3..HEAD
+git log --oneline 
+git revert -n HEAD~3. .HEAD
+git revert -n HEAD~3.. HEAD
+git log --oneline 
+git revert -n HEAD~3 ..HEAD
+git revert -n HEAD~3 .. HEAD
+git revert -n HEAD~3..HEAD
+git revert -n HEAD~3
+git revert HEAD --no-edit 
+cd ~/Desktop/git-branch
+echo "# git-branch" >> README.md
+pwd
+git init
+git add .
+git status
+git commit -m "added new file README"\
+
+git branch
+git remote add origin git@github.com:OlenaGert/git-branch.git
+git remote -v
+git push origin main 
+git checkout -b gitignore
+git branch
+nano .gitignore
+git push origin gitignore
+git branch -d gitignore
+git branch -D gitignore
+git checkout main
+git branch -d gitignore
+git branch
+ssh ec2-user@linux.itcareerhub.de
+scp ec2-user@linux.itcareerhub.de:/tmp/file.txt ~/Downloads\
+file.txt                               
+scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/olenagert/permission_checker.sh ~/Downloads/
+ssh ec2-user@linux.itcareerhub.de
+mkdir 05032025
+cd 05032025
+git init 
+ls -la
+echo "test text" > file.tx
+echo "test text" > file.txt
+rm file.tx
+echo "read me" > README.md
+git status
+git add .
+git commit -m "ghdhhjd"
+git status
+git log 
+git commit --amend -m "Added files README and file"
+git log
+git branch 
+git checkout -b test
+git branch
+history 
+echo "#archives"
+echo "#archives\n"
+echo "#archives\n *.rar"
+echo "#archives\n *.rar" >> .gitignore
+echo "new data" >> file.txt
+git status
+git add .
+git status
+git commit -m "changed file.txt and added .gitignore"
+git log 
+git branch 
+git checkout main 
+echo "neues data" >> file.txt 
+touch 1.rar
+history 
+git status
+git add .
+git status
+git commit -m  �new file 1.rar and new data in file.txt �
+git commit -m "new file 1.rar and new data in file.txt"
+git branch 
+git merge test
+git status
+nano file.txt
+git status
+git add file.txt
+git commit -m "merged main and test"
+git log --oneline --graph --all
+git remote -v 
+git remote add origin git@github.com:OlenaGert/05032025.git 
+git push -u origin main 
+git pull 
+git pull origin main 
+git pull --rebase origin main
+git status 
+nano  README.md
+git add .
+git rebase --continue
+git push -u origin main 
+git status
+nano file.txt
+git add .
+git push -u origin main 
+git status
+git commit -m "привели к обу�ему� знаменателу� все у�айлу� "
+git push -u origin main 
+git status
+git rebase --continue 
+git push -u origin main 
+npm install -g sass
+npm install npm@latest -g
+npm install npm@latest -g
+sass --watch style.scss style.css
+sass --watch style.scss style.css
+sass --version
+sass --watch style.scss style.css
+sudo sass --watch style.scss style.css
+sass --watch style.scss style.css
+sudo sass --watch style.scss style.css
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+\. "$HOME/.nvm/nvm.sh"
+nvm install 22
+node -v 
+nvm current
+npm -v
+sudo npm install npm@latest -g
+npm -v
+npm install -g sass
+sudo npm install -g sass
+sass --version
+sass --version
+sudo sass --version
+cd ~/Desktop/Homework16Kopie2
+cd ~/Desktop/Homework16 Kopie 2
+cd /Users/olena/Desktop/Homework16\ Kopie\ 2 
+sass --watch style.scss:style.css
+node --version
+node
+sass --version
+sudo sass --version
+sass --version
+sass --version
+command -v nvm
+nano ~/.zshrc
+sourse ~/.zshrc
+sourse~/.zshrc
+source ~/.zshrc
+nvm current
+nvm use 22
+command -v nvm
+nano ~/.zshrc
+source ~/.zshrc
+nvm current
+nvm use 22
+node -v
+npm -v
+nvm alias default 22
+node -v
+npm -v
+sass --version
